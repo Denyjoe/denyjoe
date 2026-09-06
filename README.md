@@ -22,4 +22,5 @@ Blockchain: Solidity, Hardhat, Ethers.js
 
 GitHub: [@Denyjoe](https://github.com/Denyjoe)
 Email: deniswilson255@gmail.com
+Contact:+255782183406
 LinkedIn: [denis-wilson-954268214](https://linkedin.com/in/denis-wilson-954268214)
